@@ -1,0 +1,5 @@
+#+TITLE: trying new web tech
+
+experimenting with go web server and different client technologies
+[[https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets][go src]]
+[[https://github.com/madsbuch/elm-chat][elm src]]
