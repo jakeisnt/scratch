@@ -1,0 +1,11 @@
+haskell is a dynamically typed interpreted language
+
+inspired by https://aphyr.com/posts/342-typing-the-technical-interview
+
+to run (stack):
+
+#+BEGIN_SRC bash
+$ stack ghci
+> :t main.hs
+> :type solution(undefined :: N6)
+#+END_SRC
