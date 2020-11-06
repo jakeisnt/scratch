@@ -1,0 +1,3 @@
+allow url http://adam.chlipala.net/style.css
+rewrite style Hello/quote quote
+hello
