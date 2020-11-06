@@ -1,0 +1,7 @@
+#+title: Scratch
+
+Small experiments with programming languages and technologies I'd like to save.
+
+If an experiment is currently in progress, it's likely living in another branch with no similar commit history.
+
+These branches are merged when I'm done experimenting and interested in working on something more substantive.
