@@ -1,0 +1,4 @@
+TODO: create a 'scratch' cli util that interacts with git the way i'd like to when working on scratch or demo projects
+keep everything on different branches so i don't pull everything down all of the time; only the scratch project i'm currently working on
+
+scratch new -> create a new branch with no history, add readme, add this script
